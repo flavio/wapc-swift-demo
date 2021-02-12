@@ -20,9 +20,6 @@ clean:
 	rm -rf .build
 	rm -f demo.wasm
 
-.PHONY: release
-release: demo.wasm
-
 containerized-release: clean
 ifndef CONTAINER_RUNTIME
 	@printf "Please install either docker or podman"
