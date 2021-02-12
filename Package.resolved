@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "wapc",
+        "repositoryURL": "https://github.com/flavio/wapc-guest-swift.git",
+        "state": {
+          "branch": null,
+          "revision": "d5fc01710a8d55c250a8c09c8c7e4bc19b5b58b3",
+          "version": "0.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
